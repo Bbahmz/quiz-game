@@ -31,18 +31,21 @@ yarn run build --report
 	<br><span style="font-size: 12px; color: #999;">首页</span>
 </div>
 
+<br>
 
 <div align="center">
 	<img src="./preview/screenshot2.png" width="320"/>
 	<br><span style="font-size: 12px; color: #999;">排行榜界面</span>
 </div>
 
+<br>
 
 <div align="center">
 	<img src="./preview/screenshot3.png" width="320"/>
 	<br><span style="font-size: 12px; color: #999;">邀请界面</span>
 </div>
 
+<br>
 
 <div align="center">
 	<img src="./preview/screenshot4.png" width="320"/>
